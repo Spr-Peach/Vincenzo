@@ -1,5 +1,5 @@
 {
   "enable_proxy": true,
   "proxy_host": "127.0.0.1",
-  "proxy_port": 49254
+  "proxy_port": 10000
 }
